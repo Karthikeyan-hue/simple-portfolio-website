@@ -6,12 +6,6 @@ This is a **personal portfolio website** built using **HTML** and **basic CSS**,
 
 👉 [Visit Now](https://karthikeyan-hue.github.io/simple-portfolio-website/)
 
-### 🎥 Demo Video
-
-Check out the functionality and layout in this short demo video:
-[![Portfolio Demo](https://img.youtube.com/vi/placeholder/0.jpg)](Task-1%20%28Portfolio%29.mp4)
-📁 **[Click here to view demo video](./Task-1%20%28Portfolio%29.mp4)**
-
 ### 🛠️ Technologies Used
 
 * HTML5
