@@ -1,19 +1,30 @@
-## 💼 Personal Portfolio Website
+## 💼 Simple Portfolio Website
 
-This is a simple and responsive **personal portfolio website** built using **HTML** and **basic CSS**. The site showcases my skills, projects, and contact information in a clean and minimalist design. It's a great starting point for beginners looking to build and customize their own online presence.
+This is a **personal portfolio website** built using **HTML** and **basic CSS**, designed to showcase my skills, projects, and contact information in a clean and responsive layout.
 
-### 🔧 Technologies Used
+### 🔗 Live Website
+
+👉 [Visit Now](https://karthikeyan-hue.github.io/simple-portfolio-website/)
+
+### 🎥 Demo Video
+
+Check out the functionality and layout in this short demo video:
+[![Portfolio Demo](https://img.youtube.com/vi/placeholder/0.jpg)](Task-1%20%28Portfolio%29.mp4)
+📁 **[Click here to view demo video](./Task-1%20%28Portfolio%29.mp4)**
+
+### 🛠️ Technologies Used
 
 * HTML5
-* CSS3 (No frameworks)
+* CSS3 (No external frameworks)
 
-### 🌐 Features
+### 🌟 Features
 
-* Responsive layout for mobile and desktop
-* About section with brief introduction
-* Projects section to showcase work
+* Fully responsive layout
+* Simple and clean UI
+* About section
+* Projects showcase
 * Contact section with social links
 
 ### 📌 Purpose
 
-This project was created to practice front-end development fundamentals and to build a personal brand with a professional online portfolio.
+This project was created to practice and demonstrate fundamental front-end development skills, and serve as a live, shareable online portfolio.
